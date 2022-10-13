@@ -1,8 +1,7 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import cart from '../images/Cart.svg'
 import favourite from '../images/Favourite.svg'
 import {Link} from 'react-router-dom'
-import { CartContext } from '../Contexts/CartContext';
 
 interface NavbarProps {
   quantity: number

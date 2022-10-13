@@ -1,7 +1,6 @@
 import React, { useContext } from 'react';
 import { BuyGoodContext } from '../Contexts/BuyGoodContext';
 import { GoodContext } from '../Contexts/GoodContext';
-import IGoodProps from '../data/interfaces/IGoodProps';
 
 export default function GoodDescription() {
   const {id, img, title, price, oldPrice, rate} = useContext(GoodContext);
