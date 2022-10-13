@@ -1,5 +1,5 @@
-﻿Тестовое задание 
-
+Тестовое задание Neoflex для курсов Frontend-Development
+=====
 Необходимо разработать две страницы интернет-магазина аудио аксессуаров. Первая страница – каталог товаров, вторая – корзина с приобретенными товарами. 
 
 Макет доступен по ссылке:[ https://www.figma.com/file/bBkg5W8GRwGmhNCVeXevoN/Neoflex- Invite-Test?node-id=0%3A1 ](https://www.figma.com/file/bBkg5W8GRwGmhNCVeXevoN/Neoflex-Invite-Test?node-id=0%3A1)
