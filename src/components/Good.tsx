@@ -1,5 +1,4 @@
-import React, { useContext } from 'react';
-import { BuyGoodContext } from '../Contexts/BuyGoodContext';
+import React from 'react';
 import { GoodContext } from '../Contexts/GoodContext';
 import IGoodProps from '../data/interfaces/IGoodProps';
 import GoodDescription from './GoodDescription';
