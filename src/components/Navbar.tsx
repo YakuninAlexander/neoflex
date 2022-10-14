@@ -1,6 +1,6 @@
 import React from 'react';
-import cart from '../images/Cart.svg'
-import favourite from '../images/Favourite.svg'
+import cart from '../images/Cart.png'
+import favourite from '../images/Favourite.png'
 import {Link} from 'react-router-dom'
 
 interface NavbarProps {
